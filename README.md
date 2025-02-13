@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning javascript and excel
 - 💞️ I’m looking to collaborate on (nothing yet)
 - 📫 How to reach me: www.linkedin.com/in/ceviche
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I love arab food, like the kibbehs from Yamal (Uff!)
 
 <!---
