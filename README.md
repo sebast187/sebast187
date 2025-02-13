@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sebast187
-- 👀 I’m interested in coding and modeling of various things
+- 👀 I’m interested in coding and the modeling of various things
 - 🌱 I’m currently learning javascript and excel
 - 💞️ I’m looking to collaborate on (nothing yet)
 - 📫 How to reach me: www.linkedin.com/in/ceviche
