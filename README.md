@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sebast187
+- 👋 Hi, I’m Sebastián
 - 👀 I’m interested in coding and the modeling of various things
 - 🌱 I’m currently learning javascript and excel
 - 💞️ I’m looking to collaborate on (nothing yet)
